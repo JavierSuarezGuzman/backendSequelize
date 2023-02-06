@@ -5,24 +5,24 @@ Está creado desde 0 con Node, Express y Sequelize. La bbdd se creó con MySQL e
 
 Sus rutas son:
 
-Index
+## Index
 localhost:3030/
 
-Crear
+## Crear
 localhost:3030/crear
-y se debe entregar un valor "dato"
+<br>y se debe entregar un valor "dato"
 
-Listar
+## Listar
 localhost:3030/listar
 
-Buscar por id
+## Buscar por id
 localhost:3030/buscar/{id}
-y se le debe pasar un id
+<br>y se debe reemplazar el {id} un id válido
 
-Actualizar
+## Actualizar
 localhost:3030/actualizar/{id}
-y se le debe pasar un id
+<br>y se debe reemplazar el {id} un id válido
 
-Borrar
+## Borrar
 localhost:3030/borrar/{id}
-y se le debe pasar un id
+<br>y se debe reemplazar el {id} un id válido
