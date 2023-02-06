@@ -1,0 +1,19 @@
+
+
+
+###
+
+POST http://localhost:3030/crear
+Content-Type: application/json
+
+{
+    "dato": "Para borrar"
+}
+###
+
+DELETE http://localhost:3030/borrar/4
+Content-Type: application/json
+
+{
+    
+}
